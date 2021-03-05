@@ -13,7 +13,7 @@ soon : via pip
 ## usage
 
 
-Change the number of lines to be generated at the line 42 of house_generator.py
+Change the number of lines to be generated at the line 49 of house_generator.py
 
 
 ```bash

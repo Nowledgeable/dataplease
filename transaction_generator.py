@@ -2,15 +2,16 @@ from data_generator import *
 
 def generate_transaction(file_name, nrows):
 
+    payment_types = ['card', 'transfer', 'cheque']
+
     names = [
-        'Altaran',
+        'Carrefour',
         'Renault',
         'Nissan',
         'Tesla',
-        'Elon Musk',
-        'John Coulberg',
-        'Laurent Alexandre',
-        'Walmart',
+        'Valeo',
+        'Monoprix',
+        'CapGemini',
         'Chevron',
         'ConocoPhillips',
         'Exxon Mobil',
@@ -33,6 +34,10 @@ def generate_transaction(file_name, nrows):
     ]
 
     requirements = [
+        {
+            'name': 'agency_id',
+            'generator': lambda nrows, df: np.random.randint(1, 10000, nrows)
+        },
 
         {
             'name': 'account_sender_name',
@@ -53,16 +58,19 @@ def generate_transaction(file_name, nrows):
             'name': 'country_receiver',
             'generator': lambda nrows, df: np.random.choice(countries, nrows)
         },
-
+        {
+            'name': 'amount',
+            'generator': lambda nrows, df: np.random.randint(1, 10000000, nrows)
+        },
+        {
+            'name': 'payment_type',
+            'generator': lambda nrows, df: np.random.choice(payment_types, nrows)
+        },
         {
             'name': 'datetime_timestamp',
             'generator': lambda nrows, df: 1000 * np.arange(nrows)
         },
 
-        {
-            'name': 'amount',
-            'generator': lambda nrows, df: np.random.randint(1, 10000000, nrows)
-        }
     ]
 
     df = generate_df(requirements, nrows)
@@ -70,4 +78,4 @@ def generate_transaction(file_name, nrows):
 
 
 
-generate_transaction('transactions_big.csv', 3000)
+generate_transaction('transactions_big.csv', 1000)

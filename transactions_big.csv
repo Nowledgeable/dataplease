@@ -1,0 +1,1001 @@
+agency_id,account_sender_name,country_sender,account_receiver_name,country_receiver,amount,payment_type,datetime_timestamp
+5615,Activision Blizard,JAP,CapGemini,US,5800278,transfer,0
+3677,Nissan,FR,Chevron,FR,6292286,transfer,1000
+4259,Renault,JAP,Tesla,SP,4630661,transfer,2000
+7530,Monoprix,SPA,Renault,US,4669317,cheque,3000
+1186,Nissan,CHI,General Motos,GER,7869766,cheque,4000
+8411,ConocoPhillips,ITA,CapGemini,SP,9165618,transfer,5000
+3632,Renault,SP,Exxon Mobil,CHI,2619740,card,6000
+5593,Chevron,UK,Carrefour,GER,2552509,card,7000
+3442,Carrefour,GER,ConocoPhillips,JAP,4955012,cheque,8000
+4659,Valeo,CHI,Renault,SWI,3462707,transfer,9000
+6274,ConocoPhillips,CHI,CapGemini,SP,6085249,card,10000
+7863,Valeo,FR,General Motos,US,2251597,cheque,11000
+3340,Activision Blizard,SWI,CapGemini,SPA,7525667,cheque,12000
+8422,Monoprix,SP,ConocoPhillips,SWI,4399917,transfer,13000
+6938,CapGemini,UK,Monoprix,SPA,3624594,transfer,14000
+2371,Renault,US,Renault,US,5462233,transfer,15000
+737,General Motos,US,Tesla,GER,4182581,transfer,16000
+4047,Nissan,CHI,McKesson,JAP,1645315,cheque,17000
+6369,McKesson,ITA,Tesla,GER,5725870,cheque,18000
+4711,Renault,US,Exxon Mobil,ITA,1986441,transfer,19000
+2478,Exxon Mobil,SPA,McKesson,GER,2245289,cheque,20000
+7438,Exxon Mobil,FR,General Motos,SWI,3439624,cheque,21000
+5998,Valeo,SWI,CapGemini,GER,2363085,transfer,22000
+8010,ConocoPhillips,ITA,Chevron,US,471750,card,23000
+7079,Monoprix,CHI,CapGemini,UK,3223345,transfer,24000
+8043,Chevron,CHI,CapGemini,SWI,6011661,cheque,25000
+92,CapGemini,SP,General Motos,ITA,339198,card,26000
+8888,Activision Blizard,FR,ConocoPhillips,CHI,8963454,transfer,27000
+9305,McKesson,ITA,Carrefour,ITA,2353609,cheque,28000
+3639,Chevron,US,Exxon Mobil,UK,9152041,cheque,29000
+4700,Tesla,US,Renault,CHI,1654592,transfer,30000
+2946,Carrefour,US,McKesson,GER,2399010,card,31000
+2038,Nissan,FR,McKesson,US,4612574,transfer,32000
+321,McKesson,GER,Renault,ITA,5949248,transfer,33000
+9623,Chevron,FR,CapGemini,SPA,7289719,transfer,34000
+6174,ConocoPhillips,GER,Chevron,US,4961482,card,35000
+104,Exxon Mobil,SWI,McKesson,ITA,9225353,transfer,36000
+2194,Valeo,SP,Nissan,UK,3267645,card,37000
+55,Nissan,FR,Monoprix,UK,6323365,card,38000
+6973,General Motos,FR,Nissan,UK,3048910,transfer,39000
+4674,Chevron,US,CapGemini,SPA,6768253,card,40000
+9130,Nissan,GER,Exxon Mobil,ITA,6906743,card,41000
+4882,General Motos,SWI,Monoprix,ITA,5853005,card,42000
+852,ConocoPhillips,SPA,McKesson,UK,6464970,transfer,43000
+5627,Carrefour,GER,Exxon Mobil,SPA,4749333,cheque,44000
+2606,Carrefour,US,Chevron,GER,1598945,transfer,45000
+6958,General Motos,UK,Monoprix,CHI,8569361,cheque,46000
+8942,CapGemini,ITA,Renault,CHI,6381125,cheque,47000
+7537,Chevron,CHI,Exxon Mobil,JAP,2597368,card,48000
+5384,Exxon Mobil,GER,Renault,US,8130994,transfer,49000
+6757,McKesson,UK,Renault,FR,129598,transfer,50000
+4813,Monoprix,GER,Chevron,US,6284545,cheque,51000
+4515,Activision Blizard,JAP,Exxon Mobil,SWI,8118283,transfer,52000
+5527,Renault,ITA,Chevron,UK,9333686,card,53000
+1377,Nissan,ITA,CapGemini,SPA,1772917,transfer,54000
+6551,McKesson,SWI,Chevron,ITA,2934112,cheque,55000
+9621,Carrefour,FR,Valeo,CHI,3321086,transfer,56000
+9384,Carrefour,UK,Valeo,ITA,6520116,cheque,57000
+1611,CapGemini,SPA,Carrefour,SP,3161882,card,58000
+8040,Nissan,SWI,Chevron,GER,5593026,cheque,59000
+4558,Activision Blizard,US,Chevron,ITA,3011536,cheque,60000
+6692,General Motos,US,McKesson,JAP,1862712,transfer,61000
+8780,Tesla,FR,Activision Blizard,SPA,6108862,cheque,62000
+9989,Carrefour,US,Chevron,CHI,4962185,cheque,63000
+2650,Carrefour,SWI,General Motos,CHI,8429057,transfer,64000
+3472,Chevron,US,Monoprix,JAP,4439261,card,65000
+7508,Tesla,JAP,Exxon Mobil,CHI,5025497,card,66000
+5333,General Motos,SWI,Activision Blizard,US,7042916,cheque,67000
+33,General Motos,US,Monoprix,FR,2902553,cheque,68000
+1702,ConocoPhillips,US,Monoprix,CHI,1596755,cheque,69000
+4559,Monoprix,GER,Activision Blizard,US,3750866,transfer,70000
+4157,CapGemini,SP,Nissan,UK,5259288,transfer,71000
+7223,ConocoPhillips,FR,Monoprix,GER,3856027,transfer,72000
+5419,Valeo,SP,Monoprix,UK,487043,card,73000
+7927,Exxon Mobil,US,Renault,GER,5305296,card,74000
+4922,Carrefour,FR,Tesla,UK,5165522,card,75000
+9845,Activision Blizard,US,Monoprix,UK,4851519,card,76000
+7881,Carrefour,FR,CapGemini,ITA,9763578,cheque,77000
+6022,Exxon Mobil,GER,ConocoPhillips,US,1848998,transfer,78000
+206,Monoprix,ITA,Nissan,CHI,4340339,card,79000
+4001,Nissan,UK,Renault,SP,9685719,cheque,80000
+9642,Activision Blizard,JAP,General Motos,SPA,7738101,cheque,81000
+806,Tesla,UK,CapGemini,ITA,499461,cheque,82000
+4837,McKesson,SPA,Carrefour,UK,5151464,transfer,83000
+3580,McKesson,SWI,CapGemini,SWI,6843572,transfer,84000
+3779,Tesla,SPA,ConocoPhillips,FR,3079491,transfer,85000
+8836,ConocoPhillips,FR,Renault,SPA,500913,transfer,86000
+5036,Chevron,JAP,Monoprix,CHI,7096867,cheque,87000
+7520,Chevron,SPA,Chevron,UK,1794956,cheque,88000
+8088,McKesson,ITA,Activision Blizard,GER,2046851,cheque,89000
+3543,Exxon Mobil,UK,Nissan,US,4300056,card,90000
+3669,Valeo,US,Chevron,UK,3919004,card,91000
+7568,Chevron,CHI,Monoprix,CHI,2768306,transfer,92000
+923,Nissan,SP,Tesla,SP,679651,card,93000
+1901,Renault,JAP,Valeo,US,8654396,card,94000
+738,Chevron,SP,Tesla,SWI,4333402,card,95000
+4085,Nissan,ITA,Chevron,ITA,4698303,cheque,96000
+7696,General Motos,GER,ConocoPhillips,CHI,3734019,transfer,97000
+4999,Carrefour,GER,General Motos,SWI,7113231,card,98000
+250,Valeo,ITA,Valeo,SPA,6178991,transfer,99000
+601,Monoprix,CHI,Carrefour,ITA,2833596,transfer,100000
+7516,CapGemini,ITA,ConocoPhillips,CHI,6779129,cheque,101000
+5887,CapGemini,JAP,CapGemini,GER,2524710,card,102000
+8544,General Motos,FR,ConocoPhillips,ITA,606593,card,103000
+1666,Nissan,ITA,Chevron,SP,7901428,transfer,104000
+4260,Exxon Mobil,SP,Activision Blizard,SPA,1947506,transfer,105000
+2887,Valeo,CHI,General Motos,FR,5376578,transfer,106000
+9601,Exxon Mobil,JAP,Nissan,ITA,533774,cheque,107000
+9735,Activision Blizard,JAP,Valeo,ITA,1080998,cheque,108000
+2697,CapGemini,FR,Exxon Mobil,FR,5133475,card,109000
+9357,Nissan,CHI,Carrefour,FR,1426232,cheque,110000
+4189,Monoprix,SWI,Activision Blizard,CHI,8381762,cheque,111000
+6074,Chevron,SWI,Renault,CHI,2311883,card,112000
+7402,Activision Blizard,ITA,Monoprix,GER,8351581,transfer,113000
+4016,Valeo,SWI,McKesson,FR,9172703,card,114000
+7768,ConocoPhillips,CHI,Tesla,JAP,9260385,transfer,115000
+5246,Exxon Mobil,SPA,CapGemini,UK,5675202,transfer,116000
+2897,Carrefour,SP,Valeo,UK,9272051,cheque,117000
+9132,Valeo,JAP,CapGemini,CHI,9335345,transfer,118000
+5773,Monoprix,GER,Chevron,SPA,9842767,cheque,119000
+3199,CapGemini,JAP,Tesla,FR,3775064,cheque,120000
+98,Renault,ITA,Activision Blizard,GER,7484593,card,121000
+8730,Monoprix,SP,ConocoPhillips,US,3590754,transfer,122000
+6117,Activision Blizard,SP,ConocoPhillips,CHI,4211888,cheque,123000
+6003,General Motos,JAP,General Motos,ITA,4954663,transfer,124000
+6681,ConocoPhillips,JAP,CapGemini,FR,4331322,transfer,125000
+2871,CapGemini,US,General Motos,GER,6219560,transfer,126000
+5737,CapGemini,SPA,McKesson,FR,8876841,transfer,127000
+3015,McKesson,JAP,General Motos,UK,3014807,cheque,128000
+5299,Exxon Mobil,US,Exxon Mobil,JAP,6490149,transfer,129000
+3684,General Motos,GER,Renault,SP,5235408,cheque,130000
+5816,CapGemini,ITA,Monoprix,SPA,2187729,transfer,131000
+1910,ConocoPhillips,UK,Activision Blizard,SP,8827773,card,132000
+8525,Valeo,SP,Monoprix,SWI,634933,card,133000
+5855,Valeo,US,McKesson,CHI,1257866,transfer,134000
+3355,ConocoPhillips,SWI,Chevron,GER,23434,card,135000
+2341,Monoprix,FR,CapGemini,GER,2060961,transfer,136000
+4134,General Motos,SWI,Chevron,SPA,7005110,cheque,137000
+5720,Monoprix,UK,ConocoPhillips,CHI,4659465,card,138000
+2467,Monoprix,CHI,Nissan,ITA,7625266,transfer,139000
+8509,Carrefour,SWI,Valeo,SWI,4562008,cheque,140000
+8416,Monoprix,JAP,CapGemini,UK,5566716,cheque,141000
+3045,Nissan,SWI,Exxon Mobil,SWI,7797205,transfer,142000
+6406,Activision Blizard,JAP,CapGemini,ITA,4323054,cheque,143000
+884,Carrefour,SWI,Carrefour,CHI,4634198,cheque,144000
+3876,McKesson,SWI,Activision Blizard,CHI,1897130,cheque,145000
+7288,Chevron,ITA,CapGemini,US,9804374,cheque,146000
+4433,Chevron,SPA,CapGemini,ITA,2694188,transfer,147000
+1346,McKesson,JAP,Nissan,FR,9990258,card,148000
+3042,McKesson,JAP,McKesson,UK,6288341,cheque,149000
+1191,Nissan,US,General Motos,JAP,3529923,transfer,150000
+8738,Chevron,US,Exxon Mobil,SP,5352674,transfer,151000
+4310,Carrefour,JAP,ConocoPhillips,UK,7047162,transfer,152000
+1582,McKesson,SP,CapGemini,UK,8219283,transfer,153000
+4280,Monoprix,SP,Renault,ITA,514001,cheque,154000
+7736,CapGemini,GER,General Motos,SPA,5276223,transfer,155000
+6912,Chevron,SWI,Carrefour,CHI,7426221,transfer,156000
+7380,Valeo,JAP,CapGemini,SPA,3329455,transfer,157000
+9064,CapGemini,UK,Tesla,UK,2560779,card,158000
+1712,Renault,GER,Exxon Mobil,ITA,6831036,cheque,159000
+476,Nissan,ITA,Monoprix,SP,2632537,cheque,160000
+4381,CapGemini,CHI,Monoprix,UK,3425960,cheque,161000
+4277,Carrefour,ITA,CapGemini,SPA,5097481,cheque,162000
+6448,Tesla,JAP,Tesla,SP,5555989,transfer,163000
+8596,Activision Blizard,UK,Valeo,UK,4485299,card,164000
+9837,Activision Blizard,SP,McKesson,CHI,4007681,card,165000
+8566,Nissan,GER,Tesla,SP,9054685,cheque,166000
+8313,General Motos,SP,CapGemini,CHI,1000216,card,167000
+7516,Renault,SP,Renault,SWI,8441331,cheque,168000
+8102,McKesson,SWI,Carrefour,CHI,4381529,card,169000
+8892,Valeo,SPA,General Motos,SPA,6995492,card,170000
+1423,General Motos,CHI,Exxon Mobil,FR,8638805,cheque,171000
+8124,CapGemini,JAP,Exxon Mobil,UK,8815331,card,172000
+1231,ConocoPhillips,FR,Monoprix,SP,3061558,transfer,173000
+1264,McKesson,GER,Activision Blizard,ITA,3518092,cheque,174000
+8571,McKesson,CHI,Exxon Mobil,UK,3272857,transfer,175000
+2299,CapGemini,SPA,ConocoPhillips,SWI,2719468,transfer,176000
+873,Nissan,GER,Nissan,JAP,869939,cheque,177000
+7373,Renault,FR,Exxon Mobil,CHI,7035614,cheque,178000
+447,CapGemini,UK,Carrefour,SWI,6941390,transfer,179000
+8348,Tesla,CHI,ConocoPhillips,UK,5231760,cheque,180000
+5200,McKesson,CHI,Monoprix,US,1545836,transfer,181000
+1590,Renault,SWI,Monoprix,ITA,7733153,transfer,182000
+8043,Chevron,FR,Exxon Mobil,SP,5602177,transfer,183000
+656,ConocoPhillips,FR,Tesla,SWI,9273418,transfer,184000
+9703,Renault,ITA,McKesson,SWI,1907948,cheque,185000
+1312,Exxon Mobil,FR,Tesla,CHI,3433160,card,186000
+9374,CapGemini,ITA,ConocoPhillips,SWI,2572948,card,187000
+2893,McKesson,UK,Activision Blizard,US,5682187,transfer,188000
+4819,Chevron,UK,ConocoPhillips,US,4334442,transfer,189000
+6318,Nissan,SWI,Exxon Mobil,ITA,5279063,card,190000
+6907,Activision Blizard,SWI,McKesson,UK,9858679,card,191000
+3393,Monoprix,US,Exxon Mobil,JAP,586086,cheque,192000
+1780,Carrefour,UK,Exxon Mobil,GER,8091365,card,193000
+2912,Renault,GER,Activision Blizard,CHI,7590717,transfer,194000
+4175,Exxon Mobil,SPA,Exxon Mobil,US,7035711,card,195000
+3105,Valeo,SPA,Nissan,JAP,7924726,transfer,196000
+4994,Exxon Mobil,FR,General Motos,US,3129711,transfer,197000
+7326,Activision Blizard,JAP,Nissan,US,2879811,card,198000
+7545,Exxon Mobil,JAP,Exxon Mobil,CHI,6987156,cheque,199000
+7378,Carrefour,FR,Renault,CHI,8359598,card,200000
+6288,Activision Blizard,SP,General Motos,JAP,8273789,card,201000
+1711,CapGemini,UK,Valeo,CHI,3428224,transfer,202000
+4344,Renault,US,Activision Blizard,GER,3202163,card,203000
+7525,Nissan,SPA,General Motos,SWI,2707789,card,204000
+7798,Carrefour,SWI,Carrefour,SPA,6301946,cheque,205000
+5910,Valeo,SPA,ConocoPhillips,GER,3526334,card,206000
+8643,CapGemini,FR,Chevron,CHI,8889541,transfer,207000
+835,Tesla,GER,Carrefour,US,8340157,cheque,208000
+6319,ConocoPhillips,JAP,Tesla,SP,2939631,card,209000
+7582,CapGemini,UK,Tesla,ITA,5759230,transfer,210000
+4074,ConocoPhillips,SWI,CapGemini,CHI,3637100,transfer,211000
+2637,McKesson,GER,Valeo,SPA,6122899,transfer,212000
+7669,Monoprix,SPA,Chevron,JAP,4095168,card,213000
+4445,Monoprix,CHI,Valeo,SPA,9516458,cheque,214000
+8352,Tesla,GER,Tesla,FR,8098795,transfer,215000
+8870,Chevron,SP,Nissan,ITA,1251222,cheque,216000
+3072,Renault,SP,CapGemini,SWI,18828,cheque,217000
+4435,Chevron,GER,Nissan,GER,991455,cheque,218000
+1133,Tesla,SP,Exxon Mobil,SPA,4304172,card,219000
+1670,Exxon Mobil,FR,Nissan,SPA,7760648,transfer,220000
+4167,General Motos,US,Renault,UK,622871,card,221000
+2806,Valeo,CHI,General Motos,JAP,7526474,transfer,222000
+9119,Activision Blizard,GER,General Motos,SP,9846170,cheque,223000
+5797,Renault,SPA,Tesla,SWI,6421807,transfer,224000
+6693,Valeo,UK,Renault,ITA,5944418,transfer,225000
+7817,Renault,FR,Activision Blizard,UK,9047062,cheque,226000
+5802,Valeo,ITA,Monoprix,SPA,6566153,cheque,227000
+1239,Activision Blizard,JAP,Carrefour,CHI,5344866,transfer,228000
+7518,Chevron,US,McKesson,FR,2219216,cheque,229000
+1331,Renault,GER,CapGemini,ITA,6819571,card,230000
+8828,Tesla,GER,General Motos,CHI,4116901,cheque,231000
+3369,Nissan,ITA,Monoprix,SWI,7717023,cheque,232000
+4343,Nissan,UK,Valeo,CHI,8945649,card,233000
+6859,Activision Blizard,ITA,Activision Blizard,ITA,5034472,card,234000
+9654,Chevron,CHI,McKesson,FR,9463303,cheque,235000
+3954,Activision Blizard,UK,Exxon Mobil,ITA,3999072,card,236000
+3801,ConocoPhillips,ITA,Exxon Mobil,CHI,1708531,card,237000
+9135,Valeo,GER,Activision Blizard,SP,2889189,transfer,238000
+7359,Activision Blizard,US,Carrefour,JAP,4796026,cheque,239000
+3946,McKesson,GER,Renault,GER,4451776,cheque,240000
+4822,Tesla,SPA,Tesla,SPA,2239461,card,241000
+3741,Chevron,FR,Monoprix,FR,2254918,cheque,242000
+222,Chevron,ITA,Chevron,FR,4063351,cheque,243000
+4797,Monoprix,ITA,General Motos,JAP,782663,card,244000
+7844,Chevron,JAP,Monoprix,FR,9301891,cheque,245000
+7215,ConocoPhillips,JAP,Renault,UK,929668,card,246000
+1445,McKesson,SPA,Monoprix,SPA,387306,transfer,247000
+8112,Tesla,SPA,Renault,CHI,650525,card,248000
+8330,Exxon Mobil,SPA,Tesla,JAP,6352868,card,249000
+9032,Renault,JAP,General Motos,ITA,5486782,card,250000
+9747,Carrefour,ITA,Monoprix,SWI,2669396,card,251000
+1686,McKesson,FR,Exxon Mobil,JAP,8794123,cheque,252000
+2315,Carrefour,SPA,Tesla,SP,1731969,cheque,253000
+763,Chevron,GER,McKesson,US,2508372,card,254000
+8370,Activision Blizard,JAP,Nissan,UK,5031744,transfer,255000
+1179,Exxon Mobil,FR,Exxon Mobil,UK,4209987,cheque,256000
+5822,Exxon Mobil,SWI,Activision Blizard,SP,5383442,transfer,257000
+1396,CapGemini,CHI,Valeo,FR,2453140,card,258000
+2466,Valeo,FR,Exxon Mobil,SPA,5249088,transfer,259000
+1764,ConocoPhillips,SWI,ConocoPhillips,GER,3267289,card,260000
+4557,Nissan,CHI,McKesson,CHI,3608614,transfer,261000
+6940,Carrefour,SWI,Chevron,JAP,9203125,transfer,262000
+2798,Carrefour,SWI,Nissan,JAP,6492506,transfer,263000
+7234,Nissan,ITA,CapGemini,US,5078083,transfer,264000
+8654,Monoprix,UK,Monoprix,FR,9983158,cheque,265000
+7828,Chevron,ITA,ConocoPhillips,GER,7276057,transfer,266000
+1345,Carrefour,GER,CapGemini,JAP,521249,transfer,267000
+4721,Nissan,JAP,Activision Blizard,US,5279615,transfer,268000
+1961,Chevron,CHI,McKesson,JAP,7123252,cheque,269000
+1073,Carrefour,FR,Chevron,US,7295895,card,270000
+750,Monoprix,SWI,General Motos,FR,9506490,cheque,271000
+4869,Valeo,JAP,CapGemini,ITA,5169137,card,272000
+5591,ConocoPhillips,SP,Renault,GER,245455,transfer,273000
+7997,Activision Blizard,SPA,General Motos,FR,5305102,transfer,274000
+2582,ConocoPhillips,UK,General Motos,JAP,766095,cheque,275000
+5257,McKesson,SP,Exxon Mobil,UK,3346395,cheque,276000
+2401,Exxon Mobil,SPA,Chevron,GER,1313282,card,277000
+6923,Chevron,SWI,General Motos,SP,4093220,cheque,278000
+2107,Tesla,US,ConocoPhillips,GER,5157006,transfer,279000
+8816,Nissan,FR,General Motos,GER,6390966,transfer,280000
+6728,Chevron,US,Renault,ITA,6289504,transfer,281000
+2094,Exxon Mobil,FR,Activision Blizard,FR,6701567,card,282000
+4069,Monoprix,JAP,Tesla,FR,3787341,card,283000
+3955,Activision Blizard,ITA,Nissan,SPA,4495062,cheque,284000
+8574,Carrefour,ITA,McKesson,GER,8953044,transfer,285000
+3677,Valeo,GER,Activision Blizard,ITA,1336656,card,286000
+4532,Renault,SP,Tesla,SWI,3179716,transfer,287000
+6214,General Motos,JAP,Monoprix,SPA,5389406,transfer,288000
+2099,Chevron,CHI,Valeo,SWI,272817,transfer,289000
+9117,Activision Blizard,GER,McKesson,ITA,8623900,card,290000
+1489,McKesson,GER,CapGemini,CHI,3210735,cheque,291000
+6106,Chevron,SWI,Exxon Mobil,SP,9922538,cheque,292000
+8162,Activision Blizard,ITA,Nissan,GER,9333992,cheque,293000
+5230,CapGemini,JAP,General Motos,ITA,1545390,card,294000
+5002,Valeo,CHI,ConocoPhillips,SPA,3250081,transfer,295000
+7373,General Motos,FR,McKesson,ITA,2323323,cheque,296000
+5397,ConocoPhillips,FR,McKesson,FR,9721253,transfer,297000
+3572,Activision Blizard,SP,Chevron,GER,8657886,cheque,298000
+9704,Monoprix,US,General Motos,CHI,3575441,card,299000
+575,General Motos,SPA,Chevron,CHI,7696886,card,300000
+8894,Monoprix,SWI,Activision Blizard,JAP,4891156,cheque,301000
+9888,Valeo,UK,Nissan,US,2650523,card,302000
+1553,Activision Blizard,ITA,General Motos,FR,9245986,card,303000
+8230,Activision Blizard,ITA,Valeo,GER,5796335,transfer,304000
+2572,Tesla,US,ConocoPhillips,US,7621154,cheque,305000
+8682,Valeo,US,Chevron,SP,3807353,cheque,306000
+801,ConocoPhillips,FR,ConocoPhillips,UK,8486836,transfer,307000
+1409,Chevron,US,Activision Blizard,SPA,4146230,card,308000
+6204,Monoprix,SP,Monoprix,SP,7261602,cheque,309000
+6855,ConocoPhillips,SPA,Carrefour,SP,8758884,transfer,310000
+4691,CapGemini,GER,Monoprix,SP,531913,card,311000
+8561,Monoprix,JAP,ConocoPhillips,CHI,7767649,cheque,312000
+523,Monoprix,GER,Renault,US,8342428,cheque,313000
+7227,ConocoPhillips,JAP,Tesla,SPA,7791386,card,314000
+9982,McKesson,ITA,Renault,CHI,5240979,cheque,315000
+1908,Nissan,US,CapGemini,CHI,9338093,transfer,316000
+3443,Valeo,UK,Chevron,US,9738137,transfer,317000
+9303,Renault,SPA,ConocoPhillips,ITA,2548371,cheque,318000
+1163,General Motos,GER,Tesla,SP,5633950,transfer,319000
+7244,ConocoPhillips,CHI,Nissan,CHI,5735656,transfer,320000
+6603,Renault,UK,ConocoPhillips,GER,606721,cheque,321000
+3974,Renault,ITA,Nissan,SPA,8645518,cheque,322000
+434,Renault,SP,Renault,FR,7175708,transfer,323000
+2270,Valeo,SPA,Valeo,JAP,7629915,transfer,324000
+9505,Nissan,CHI,McKesson,SPA,2583108,card,325000
+878,ConocoPhillips,UK,Nissan,SP,3891140,card,326000
+4009,Renault,US,Carrefour,SP,1078015,card,327000
+366,ConocoPhillips,FR,General Motos,ITA,834557,card,328000
+1436,Monoprix,ITA,General Motos,SWI,2097248,transfer,329000
+6825,ConocoPhillips,SWI,Carrefour,ITA,4668983,cheque,330000
+3009,Valeo,ITA,Tesla,FR,9933668,card,331000
+3054,Renault,UK,Chevron,SWI,6770891,transfer,332000
+583,Valeo,JAP,Chevron,FR,2071388,transfer,333000
+2074,Nissan,SP,Carrefour,US,6791763,transfer,334000
+7104,Chevron,SWI,ConocoPhillips,UK,8032861,transfer,335000
+2594,Tesla,UK,General Motos,US,2576190,transfer,336000
+9151,Chevron,FR,Tesla,SP,6699493,transfer,337000
+123,General Motos,US,Chevron,CHI,5365297,card,338000
+469,General Motos,GER,Activision Blizard,US,6943876,card,339000
+3716,Tesla,FR,Monoprix,US,1434046,cheque,340000
+7303,General Motos,SWI,General Motos,SWI,83614,cheque,341000
+4220,General Motos,SWI,Valeo,GER,6694662,cheque,342000
+7228,Valeo,ITA,Valeo,SWI,3841017,transfer,343000
+4901,CapGemini,JAP,Exxon Mobil,SP,3866559,card,344000
+7790,Nissan,ITA,Monoprix,SP,2188042,card,345000
+3929,Tesla,ITA,General Motos,CHI,9749881,card,346000
+1225,Renault,GER,Nissan,JAP,8110769,transfer,347000
+1921,Valeo,ITA,Monoprix,GER,8171743,cheque,348000
+3300,Carrefour,UK,McKesson,SWI,4347808,card,349000
+1899,Activision Blizard,CHI,Monoprix,GER,2300884,cheque,350000
+2144,Renault,US,Tesla,US,4655174,cheque,351000
+1860,CapGemini,SWI,Tesla,SPA,4940729,cheque,352000
+2728,Activision Blizard,CHI,Tesla,ITA,6588999,cheque,353000
+4823,CapGemini,SPA,Monoprix,CHI,6874270,card,354000
+8416,Activision Blizard,FR,Renault,SP,6513210,transfer,355000
+9207,Renault,CHI,McKesson,FR,5637712,cheque,356000
+7397,Exxon Mobil,JAP,Activision Blizard,SWI,2790103,cheque,357000
+98,McKesson,US,McKesson,ITA,3213033,card,358000
+1965,McKesson,SP,Monoprix,CHI,5466945,transfer,359000
+3980,Renault,US,Nissan,SP,8637532,transfer,360000
+5328,Renault,UK,General Motos,US,1285393,card,361000
+3942,Chevron,CHI,Valeo,SPA,9827243,card,362000
+2867,McKesson,SP,Valeo,UK,1885473,card,363000
+4154,General Motos,SP,CapGemini,GER,9931223,transfer,364000
+4354,McKesson,SPA,CapGemini,SPA,2544786,transfer,365000
+3334,McKesson,JAP,Renault,US,4877810,card,366000
+9503,Carrefour,GER,Chevron,SWI,5683422,transfer,367000
+5708,Valeo,SP,Valeo,FR,5432238,transfer,368000
+1344,Tesla,SWI,General Motos,CHI,855691,cheque,369000
+6783,Tesla,SWI,Tesla,SPA,1837553,cheque,370000
+7135,Chevron,UK,General Motos,JAP,9650977,cheque,371000
+8932,Valeo,SWI,Monoprix,ITA,3883870,cheque,372000
+6803,Renault,UK,Chevron,UK,9675655,card,373000
+6145,Chevron,FR,Nissan,US,6172656,cheque,374000
+1510,CapGemini,SWI,ConocoPhillips,FR,5715437,card,375000
+1862,Activision Blizard,FR,General Motos,GER,9989503,transfer,376000
+9713,Renault,UK,McKesson,ITA,8456805,transfer,377000
+8573,Chevron,UK,McKesson,GER,4452156,transfer,378000
+1738,Exxon Mobil,CHI,CapGemini,SP,2512889,cheque,379000
+5980,Nissan,SP,Chevron,SP,7485922,card,380000
+3556,CapGemini,SWI,CapGemini,JAP,9115201,cheque,381000
+9626,McKesson,SPA,Valeo,FR,3488418,cheque,382000
+6777,Carrefour,SP,McKesson,SWI,5196037,card,383000
+4813,Renault,SWI,Monoprix,SPA,4951684,transfer,384000
+1404,Nissan,SWI,Exxon Mobil,FR,4293737,card,385000
+9394,Renault,JAP,Monoprix,SPA,4258632,transfer,386000
+4175,General Motos,SWI,Renault,JAP,6003471,transfer,387000
+1937,McKesson,ITA,Tesla,GER,2246050,cheque,388000
+7084,Carrefour,SPA,McKesson,SP,9851236,transfer,389000
+3020,Nissan,GER,Exxon Mobil,SPA,5630341,transfer,390000
+5020,Carrefour,US,ConocoPhillips,ITA,7613108,transfer,391000
+2720,ConocoPhillips,UK,ConocoPhillips,SWI,1211386,card,392000
+8532,Tesla,SPA,Tesla,US,7019741,card,393000
+7248,ConocoPhillips,SWI,Tesla,US,5699707,card,394000
+4255,Activision Blizard,SWI,Chevron,FR,2349435,card,395000
+76,Activision Blizard,UK,Nissan,SPA,972316,cheque,396000
+7604,Carrefour,SWI,Renault,UK,7847427,transfer,397000
+8286,Tesla,GER,ConocoPhillips,ITA,7885513,cheque,398000
+5388,CapGemini,CHI,Exxon Mobil,SPA,3425710,cheque,399000
+6970,Valeo,JAP,Monoprix,UK,9376374,cheque,400000
+961,Carrefour,GER,Tesla,ITA,9845835,cheque,401000
+2634,Carrefour,SWI,Renault,FR,4322563,transfer,402000
+1360,Exxon Mobil,JAP,Nissan,SP,6355477,card,403000
+1247,Carrefour,SPA,Nissan,SPA,5264610,transfer,404000
+9920,McKesson,SWI,Nissan,UK,2986921,card,405000
+6890,Valeo,FR,Exxon Mobil,CHI,8146478,cheque,406000
+5247,Nissan,SP,Chevron,GER,9891994,cheque,407000
+5329,CapGemini,SP,General Motos,ITA,6668822,transfer,408000
+4063,Nissan,FR,Chevron,ITA,3073182,cheque,409000
+8803,Renault,SWI,Carrefour,SP,6476095,card,410000
+1719,Renault,JAP,Carrefour,JAP,4493924,cheque,411000
+9037,Carrefour,SWI,Exxon Mobil,SWI,617066,card,412000
+1369,Valeo,GER,Chevron,SP,6366670,cheque,413000
+1151,Tesla,FR,Chevron,ITA,3576139,transfer,414000
+4102,Tesla,SP,Carrefour,CHI,8579490,card,415000
+5058,Carrefour,US,Activision Blizard,ITA,1157598,card,416000
+2463,Valeo,US,Exxon Mobil,ITA,8097926,cheque,417000
+1426,Tesla,ITA,CapGemini,FR,1657099,cheque,418000
+1490,Renault,SPA,Renault,UK,5416165,transfer,419000
+6209,Nissan,UK,Chevron,SPA,976599,card,420000
+3219,Monoprix,UK,Exxon Mobil,ITA,8278126,transfer,421000
+3602,Tesla,SWI,Tesla,GER,7985582,transfer,422000
+4640,McKesson,SWI,McKesson,US,3521183,card,423000
+4777,Nissan,FR,Valeo,CHI,2650462,cheque,424000
+7452,Valeo,GER,Activision Blizard,FR,4103969,cheque,425000
+7312,Monoprix,SPA,Monoprix,US,6046022,transfer,426000
+6903,Renault,CHI,Nissan,ITA,6618253,card,427000
+233,Monoprix,SP,General Motos,UK,6337924,cheque,428000
+2399,Valeo,JAP,Activision Blizard,GER,3727386,cheque,429000
+3857,General Motos,UK,Activision Blizard,SWI,284326,transfer,430000
+4828,Renault,SWI,Tesla,US,2475383,card,431000
+7608,Monoprix,GER,Monoprix,UK,3487530,cheque,432000
+3308,ConocoPhillips,US,Renault,CHI,5693089,cheque,433000
+3667,McKesson,FR,Renault,JAP,2393495,card,434000
+4460,Activision Blizard,US,Valeo,CHI,594925,transfer,435000
+7445,Nissan,SPA,ConocoPhillips,US,2961722,card,436000
+2879,Valeo,SPA,CapGemini,FR,6085269,transfer,437000
+627,CapGemini,FR,Tesla,SPA,83090,cheque,438000
+327,Carrefour,SPA,Monoprix,UK,8698276,cheque,439000
+8713,Tesla,GER,Monoprix,SPA,8602041,transfer,440000
+4300,Chevron,SP,Carrefour,SP,2951933,transfer,441000
+1422,Carrefour,SPA,Valeo,JAP,1633948,card,442000
+9506,Exxon Mobil,UK,Activision Blizard,SWI,452074,cheque,443000
+3448,Nissan,FR,McKesson,US,7157143,card,444000
+1622,General Motos,SP,Nissan,SWI,5869737,card,445000
+7687,Carrefour,JAP,Valeo,ITA,9876621,cheque,446000
+3071,Nissan,ITA,Chevron,SWI,7343677,cheque,447000
+1193,Activision Blizard,FR,Chevron,SPA,6394411,transfer,448000
+85,Exxon Mobil,US,Renault,JAP,4623791,cheque,449000
+9474,Monoprix,CHI,McKesson,GER,9521545,card,450000
+2967,General Motos,US,Nissan,UK,3053361,transfer,451000
+246,Exxon Mobil,SWI,Nissan,SP,1177833,cheque,452000
+9094,ConocoPhillips,SP,ConocoPhillips,SP,567752,transfer,453000
+7169,CapGemini,ITA,Monoprix,SP,7922101,card,454000
+768,Exxon Mobil,SPA,Valeo,CHI,1798732,card,455000
+2877,Activision Blizard,UK,McKesson,SPA,3487000,transfer,456000
+5171,Tesla,SP,Monoprix,FR,1391426,transfer,457000
+7963,Monoprix,GER,Chevron,GER,3886734,card,458000
+1869,CapGemini,CHI,Activision Blizard,CHI,6473569,card,459000
+339,CapGemini,GER,Nissan,JAP,9077584,transfer,460000
+5789,Activision Blizard,GER,Chevron,SWI,3973021,cheque,461000
+9186,McKesson,SWI,Chevron,SWI,8666331,transfer,462000
+5540,Nissan,SWI,Chevron,SWI,5446863,cheque,463000
+4483,Carrefour,GER,Renault,ITA,9007175,card,464000
+5387,General Motos,CHI,Valeo,FR,1600573,transfer,465000
+188,McKesson,GER,Nissan,JAP,2452449,cheque,466000
+4185,McKesson,SWI,McKesson,SPA,2547647,card,467000
+4632,ConocoPhillips,CHI,Chevron,SPA,9108130,transfer,468000
+8128,Activision Blizard,SPA,Tesla,JAP,7736010,cheque,469000
+3421,Exxon Mobil,FR,Valeo,SPA,8817760,transfer,470000
+8264,Tesla,SWI,Renault,US,4290909,cheque,471000
+3688,McKesson,GER,Nissan,FR,1375720,transfer,472000
+2387,McKesson,SP,General Motos,SP,3647221,transfer,473000
+2580,Nissan,GER,Valeo,SPA,2076175,cheque,474000
+9859,Valeo,CHI,Renault,ITA,1265387,cheque,475000
+8041,General Motos,JAP,McKesson,ITA,791195,transfer,476000
+9766,Chevron,ITA,Chevron,FR,6751209,card,477000
+5207,Activision Blizard,SWI,McKesson,SPA,7111442,transfer,478000
+4775,CapGemini,SWI,Monoprix,GER,4408666,card,479000
+3486,Tesla,SPA,McKesson,UK,31109,cheque,480000
+6369,Activision Blizard,US,Renault,SPA,4573756,cheque,481000
+7200,Renault,UK,Tesla,FR,8322175,card,482000
+3875,Valeo,FR,Valeo,UK,4967170,cheque,483000
+8418,Nissan,UK,General Motos,SPA,6293026,transfer,484000
+6770,Renault,US,Nissan,GER,3530965,card,485000
+5885,Carrefour,FR,General Motos,SPA,8115853,card,486000
+6179,Monoprix,SPA,Monoprix,SP,9212908,card,487000
+6953,Carrefour,SP,Monoprix,SP,9112060,transfer,488000
+7701,Tesla,SPA,Carrefour,GER,651599,transfer,489000
+8880,ConocoPhillips,US,McKesson,SWI,8333753,cheque,490000
+7627,Chevron,US,Carrefour,ITA,1823137,transfer,491000
+6249,Tesla,SP,CapGemini,SWI,8722283,card,492000
+4023,General Motos,JAP,McKesson,ITA,6939464,transfer,493000
+3246,Nissan,JAP,Nissan,UK,9442544,cheque,494000
+7895,McKesson,GER,Carrefour,SP,8074691,cheque,495000
+5485,General Motos,SP,General Motos,FR,1225679,transfer,496000
+5435,ConocoPhillips,SP,McKesson,SP,5649107,transfer,497000
+7133,Chevron,US,General Motos,FR,2845677,transfer,498000
+6613,CapGemini,SWI,Monoprix,SP,7169480,card,499000
+2639,Exxon Mobil,SPA,CapGemini,US,6348432,cheque,500000
+3849,ConocoPhillips,US,Activision Blizard,JAP,2426262,transfer,501000
+1743,CapGemini,JAP,ConocoPhillips,US,1229569,cheque,502000
+4683,Tesla,SWI,Renault,UK,1724756,transfer,503000
+2652,McKesson,US,Valeo,CHI,4962151,cheque,504000
+5315,Tesla,ITA,CapGemini,CHI,2749988,cheque,505000
+1747,Monoprix,CHI,Valeo,CHI,323612,card,506000
+5172,McKesson,SPA,Chevron,GER,4231458,cheque,507000
+4591,Renault,ITA,Activision Blizard,SWI,7061793,card,508000
+5101,Nissan,FR,Nissan,CHI,4250518,cheque,509000
+9217,Renault,UK,Carrefour,JAP,6128365,cheque,510000
+6092,Carrefour,UK,Nissan,ITA,9417193,transfer,511000
+9172,Chevron,UK,General Motos,GER,9412394,cheque,512000
+2592,ConocoPhillips,ITA,Renault,GER,7879818,cheque,513000
+5069,Activision Blizard,SP,Chevron,SWI,2097864,cheque,514000
+4505,Valeo,SP,Chevron,SWI,3351219,card,515000
+1576,Nissan,US,General Motos,GER,4704080,transfer,516000
+5037,Monoprix,US,Renault,FR,4731891,cheque,517000
+1448,Monoprix,FR,Chevron,GER,9163041,card,518000
+919,Tesla,US,Valeo,SWI,443876,cheque,519000
+3768,Nissan,SP,McKesson,US,6209988,transfer,520000
+1533,CapGemini,UK,Activision Blizard,GER,5718756,card,521000
+6728,General Motos,FR,Renault,FR,8598698,card,522000
+5911,ConocoPhillips,UK,McKesson,SPA,4053091,transfer,523000
+86,Nissan,CHI,Tesla,SP,2828015,card,524000
+4532,McKesson,JAP,General Motos,US,8985236,cheque,525000
+1977,Carrefour,SP,Activision Blizard,SP,2539615,cheque,526000
+9745,Tesla,UK,Valeo,UK,85549,cheque,527000
+7316,Valeo,US,Nissan,SPA,3168967,card,528000
+5579,Carrefour,SPA,General Motos,SWI,752222,cheque,529000
+7930,Exxon Mobil,CHI,Tesla,ITA,4694977,cheque,530000
+4215,Monoprix,FR,Carrefour,GER,5783421,card,531000
+4370,Monoprix,SP,McKesson,CHI,2719577,cheque,532000
+7465,Carrefour,SP,Carrefour,UK,5382449,cheque,533000
+4608,Nissan,SWI,Carrefour,ITA,7118393,cheque,534000
+5659,Activision Blizard,FR,Renault,SPA,9014293,card,535000
+7376,Tesla,GER,Activision Blizard,FR,8054618,card,536000
+5112,Chevron,FR,McKesson,CHI,9231878,cheque,537000
+7545,ConocoPhillips,ITA,McKesson,JAP,9658936,cheque,538000
+4353,Valeo,US,ConocoPhillips,GER,867720,card,539000
+199,Tesla,FR,Renault,FR,7292136,transfer,540000
+5374,Exxon Mobil,UK,Renault,FR,2759758,transfer,541000
+8587,CapGemini,JAP,Carrefour,SP,5933119,card,542000
+2374,General Motos,SWI,McKesson,US,3973665,transfer,543000
+1145,Tesla,UK,Exxon Mobil,ITA,8021260,cheque,544000
+1263,Nissan,SPA,ConocoPhillips,JAP,889503,transfer,545000
+3401,ConocoPhillips,FR,CapGemini,SPA,9059273,card,546000
+5558,Renault,CHI,Activision Blizard,ITA,5751041,transfer,547000
+5379,Valeo,SP,ConocoPhillips,GER,1479659,cheque,548000
+8721,CapGemini,SP,Renault,SP,7413013,cheque,549000
+3437,Exxon Mobil,CHI,McKesson,GER,9330744,card,550000
+4307,ConocoPhillips,SPA,McKesson,CHI,7497196,transfer,551000
+4810,Exxon Mobil,SPA,McKesson,SPA,3326132,transfer,552000
+8052,McKesson,SP,CapGemini,CHI,4481303,cheque,553000
+2379,General Motos,SWI,CapGemini,CHI,7235447,card,554000
+1041,Renault,SP,Exxon Mobil,JAP,1281008,transfer,555000
+9683,Valeo,SPA,Monoprix,SWI,183772,cheque,556000
+3741,CapGemini,JAP,Renault,FR,9420183,cheque,557000
+556,ConocoPhillips,SPA,Activision Blizard,ITA,5694475,transfer,558000
+2352,Tesla,GER,Carrefour,CHI,433290,card,559000
+8310,McKesson,GER,Chevron,GER,432952,cheque,560000
+4915,General Motos,FR,Monoprix,SP,603013,transfer,561000
+4878,Exxon Mobil,JAP,Monoprix,US,1932217,cheque,562000
+8648,CapGemini,UK,Tesla,CHI,5134131,transfer,563000
+4176,Carrefour,US,Renault,UK,9107337,card,564000
+6992,Chevron,GER,Activision Blizard,US,4156759,transfer,565000
+3600,Activision Blizard,UK,Nissan,GER,9033755,cheque,566000
+7815,CapGemini,JAP,Chevron,SWI,881047,cheque,567000
+9324,CapGemini,ITA,ConocoPhillips,US,557072,transfer,568000
+6068,Monoprix,US,ConocoPhillips,SP,4550904,cheque,569000
+1644,Nissan,UK,Carrefour,JAP,565913,cheque,570000
+4458,Monoprix,SPA,CapGemini,SPA,454133,transfer,571000
+4503,ConocoPhillips,JAP,Valeo,ITA,1737160,cheque,572000
+4921,Tesla,SWI,Activision Blizard,SPA,3977822,cheque,573000
+5815,CapGemini,US,Nissan,JAP,7438079,card,574000
+5053,Valeo,SWI,Nissan,UK,3561350,card,575000
+6583,Chevron,CHI,CapGemini,SPA,9230323,card,576000
+1367,Carrefour,FR,CapGemini,SP,8178574,transfer,577000
+8759,General Motos,JAP,Exxon Mobil,FR,4384012,card,578000
+8247,General Motos,SWI,Renault,SPA,2707018,transfer,579000
+5284,Tesla,FR,Monoprix,CHI,6703345,card,580000
+7224,McKesson,CHI,Chevron,SP,4834758,transfer,581000
+1769,Activision Blizard,GER,General Motos,SWI,9575135,card,582000
+6690,Activision Blizard,CHI,ConocoPhillips,ITA,1407906,cheque,583000
+7909,Monoprix,SWI,Nissan,SWI,7980094,card,584000
+6186,Renault,JAP,Tesla,CHI,7698353,card,585000
+4439,Nissan,ITA,Valeo,SWI,1988455,cheque,586000
+7533,Tesla,SWI,Monoprix,GER,1954221,card,587000
+5360,Chevron,SPA,Carrefour,JAP,76172,cheque,588000
+3544,Monoprix,ITA,CapGemini,FR,3673772,card,589000
+6592,Exxon Mobil,FR,McKesson,UK,9713118,card,590000
+7760,General Motos,SWI,Chevron,SWI,3515853,card,591000
+2303,Chevron,CHI,CapGemini,SPA,2920195,cheque,592000
+2095,Renault,CHI,Valeo,SP,7359365,transfer,593000
+1813,Monoprix,UK,ConocoPhillips,ITA,1285835,card,594000
+9482,Carrefour,GER,Renault,SP,8991133,card,595000
+536,General Motos,SP,ConocoPhillips,SWI,6847278,card,596000
+5324,CapGemini,ITA,McKesson,SWI,8863143,card,597000
+8917,McKesson,UK,Nissan,CHI,1209088,card,598000
+5628,Exxon Mobil,CHI,Chevron,GER,3540632,cheque,599000
+2596,CapGemini,JAP,Nissan,GER,407326,transfer,600000
+4385,McKesson,UK,General Motos,SWI,9134978,card,601000
+349,Renault,JAP,Renault,US,1316377,card,602000
+5739,Monoprix,JAP,Nissan,GER,5492877,card,603000
+5974,CapGemini,SPA,Renault,CHI,2831111,cheque,604000
+9175,Tesla,CHI,General Motos,JAP,1468044,cheque,605000
+8387,Activision Blizard,JAP,CapGemini,SPA,1347867,transfer,606000
+3906,CapGemini,CHI,Activision Blizard,SWI,599822,transfer,607000
+8886,Renault,SPA,Renault,SP,3112636,card,608000
+1482,General Motos,SP,General Motos,UK,439644,card,609000
+3673,Tesla,SPA,CapGemini,UK,5952877,cheque,610000
+2393,Activision Blizard,SWI,Chevron,SWI,6711098,transfer,611000
+7631,Exxon Mobil,GER,Nissan,JAP,6137302,card,612000
+3095,Valeo,GER,Nissan,GER,5656970,card,613000
+3022,McKesson,CHI,CapGemini,SPA,7315232,cheque,614000
+5196,Nissan,US,Monoprix,SWI,7670647,card,615000
+7899,CapGemini,CHI,Valeo,FR,8916018,card,616000
+1189,Chevron,GER,Tesla,JAP,1316296,cheque,617000
+9037,Tesla,JAP,McKesson,US,5752918,cheque,618000
+2338,McKesson,SPA,Nissan,CHI,3695560,transfer,619000
+8763,Exxon Mobil,GER,ConocoPhillips,JAP,1568655,transfer,620000
+4434,Activision Blizard,JAP,Renault,US,8008294,transfer,621000
+6852,Carrefour,SPA,Renault,SP,1412578,transfer,622000
+1754,Exxon Mobil,UK,McKesson,US,7313466,transfer,623000
+6575,Carrefour,SWI,Carrefour,UK,7831686,card,624000
+9080,Renault,FR,Activision Blizard,ITA,2664570,cheque,625000
+38,Valeo,SPA,McKesson,SWI,9902519,card,626000
+4033,Activision Blizard,SPA,Renault,ITA,9873091,cheque,627000
+405,Tesla,ITA,ConocoPhillips,ITA,866729,card,628000
+55,Tesla,FR,Activision Blizard,CHI,3985746,cheque,629000
+8059,Chevron,US,Chevron,US,7550662,transfer,630000
+5318,Carrefour,ITA,Renault,CHI,3159325,card,631000
+8460,Valeo,ITA,Activision Blizard,GER,1364803,card,632000
+6983,ConocoPhillips,SP,General Motos,FR,9582324,card,633000
+8169,McKesson,US,Nissan,CHI,3505774,card,634000
+4765,ConocoPhillips,ITA,Exxon Mobil,CHI,4568564,transfer,635000
+9518,General Motos,FR,Monoprix,US,3629320,transfer,636000
+2131,Carrefour,CHI,Renault,CHI,3046564,transfer,637000
+7281,General Motos,FR,Tesla,UK,7838138,cheque,638000
+3853,Renault,SWI,CapGemini,SWI,520044,cheque,639000
+4461,Nissan,SWI,CapGemini,FR,247930,card,640000
+6688,General Motos,SPA,CapGemini,CHI,1291255,card,641000
+9030,ConocoPhillips,CHI,Monoprix,JAP,6014528,transfer,642000
+4726,Activision Blizard,SWI,ConocoPhillips,ITA,7892909,transfer,643000
+1026,General Motos,SPA,Chevron,CHI,3914433,transfer,644000
+8873,Carrefour,SPA,Nissan,CHI,675948,transfer,645000
+2001,Chevron,SWI,ConocoPhillips,JAP,3668872,cheque,646000
+8926,Nissan,JAP,Chevron,ITA,9413368,card,647000
+5506,Tesla,US,Nissan,US,6398910,card,648000
+3406,ConocoPhillips,US,Tesla,SPA,1648512,card,649000
+7030,Tesla,US,General Motos,JAP,6079515,transfer,650000
+9456,Tesla,GER,Nissan,UK,4608804,transfer,651000
+5201,Renault,ITA,General Motos,SP,6878236,cheque,652000
+8997,Activision Blizard,UK,Renault,US,2816905,card,653000
+1200,Tesla,SWI,Carrefour,SPA,763887,transfer,654000
+8389,General Motos,ITA,ConocoPhillips,GER,3160807,transfer,655000
+6140,Tesla,ITA,Exxon Mobil,SPA,4761893,cheque,656000
+6029,Carrefour,ITA,Valeo,CHI,102209,transfer,657000
+5079,McKesson,US,McKesson,ITA,1266164,transfer,658000
+4571,General Motos,US,Tesla,SP,8739633,transfer,659000
+1609,Chevron,SPA,ConocoPhillips,CHI,9691686,card,660000
+4786,Renault,SP,General Motos,US,1046347,card,661000
+2524,Carrefour,UK,Chevron,US,1421998,cheque,662000
+3290,General Motos,ITA,Carrefour,SP,5563449,cheque,663000
+4933,Chevron,US,Exxon Mobil,ITA,2792792,transfer,664000
+5476,Carrefour,UK,Monoprix,UK,9964803,card,665000
+1798,Valeo,ITA,CapGemini,SWI,7277773,transfer,666000
+8987,General Motos,UK,Exxon Mobil,SWI,6653523,transfer,667000
+2029,Monoprix,ITA,Valeo,ITA,175419,transfer,668000
+2025,CapGemini,GER,ConocoPhillips,CHI,4440022,cheque,669000
+8736,McKesson,SWI,ConocoPhillips,FR,7934872,cheque,670000
+6186,Valeo,FR,Tesla,GER,1202433,cheque,671000
+2903,Nissan,UK,CapGemini,JAP,1503421,cheque,672000
+7036,Renault,SP,CapGemini,FR,2785427,transfer,673000
+3112,Tesla,CHI,ConocoPhillips,SWI,2164065,transfer,674000
+2775,Exxon Mobil,SPA,Activision Blizard,GER,6953877,transfer,675000
+7675,McKesson,SWI,McKesson,SPA,1791879,transfer,676000
+5450,ConocoPhillips,JAP,Tesla,SWI,3205248,transfer,677000
+8115,Monoprix,FR,Chevron,JAP,7100077,transfer,678000
+9892,Renault,SPA,Renault,JAP,5663951,cheque,679000
+9919,Chevron,CHI,General Motos,SP,5621574,card,680000
+1666,CapGemini,SPA,Renault,ITA,2888328,cheque,681000
+4195,McKesson,FR,Monoprix,ITA,9542863,card,682000
+3840,Monoprix,ITA,Nissan,UK,828583,card,683000
+1028,ConocoPhillips,UK,Valeo,UK,8338115,card,684000
+7555,General Motos,ITA,Activision Blizard,CHI,1728913,cheque,685000
+3118,ConocoPhillips,FR,McKesson,GER,9897711,transfer,686000
+62,ConocoPhillips,JAP,McKesson,SP,1657328,card,687000
+7805,Monoprix,JAP,McKesson,GER,493749,card,688000
+2410,Valeo,UK,McKesson,SWI,3986757,transfer,689000
+1694,Renault,JAP,Monoprix,CHI,2729125,cheque,690000
+5519,CapGemini,SPA,CapGemini,SWI,8461177,cheque,691000
+9385,Tesla,US,Nissan,JAP,300160,transfer,692000
+6561,Tesla,SP,CapGemini,US,2934544,transfer,693000
+7954,ConocoPhillips,ITA,Tesla,SPA,371107,transfer,694000
+6272,Monoprix,FR,Activision Blizard,US,5337024,transfer,695000
+5573,General Motos,GER,Tesla,JAP,6090305,transfer,696000
+8939,Chevron,SPA,Valeo,CHI,9022316,cheque,697000
+7537,Valeo,CHI,General Motos,US,4898455,card,698000
+1316,ConocoPhillips,SPA,Renault,SPA,5697900,card,699000
+7951,General Motos,FR,Nissan,SPA,1752246,cheque,700000
+9288,General Motos,FR,Exxon Mobil,ITA,9654323,card,701000
+5448,Activision Blizard,US,Renault,ITA,2552784,transfer,702000
+3725,Activision Blizard,CHI,ConocoPhillips,CHI,8093657,card,703000
+690,Monoprix,UK,Monoprix,GER,2766391,transfer,704000
+2596,Tesla,SWI,Activision Blizard,SWI,2721157,cheque,705000
+787,CapGemini,FR,Chevron,UK,3888147,cheque,706000
+6758,Carrefour,SPA,Exxon Mobil,SP,1627146,cheque,707000
+7870,Renault,GER,Chevron,UK,5642343,cheque,708000
+7799,Exxon Mobil,GER,Activision Blizard,CHI,787426,card,709000
+1869,Nissan,US,Valeo,UK,5606172,cheque,710000
+4634,General Motos,SP,Valeo,ITA,7320226,cheque,711000
+605,General Motos,SP,ConocoPhillips,CHI,910539,transfer,712000
+6707,McKesson,SPA,ConocoPhillips,FR,3911312,cheque,713000
+9888,McKesson,ITA,Monoprix,SWI,3396041,cheque,714000
+973,McKesson,SWI,Renault,SWI,5015773,transfer,715000
+2105,Nissan,SPA,Chevron,SPA,8490831,cheque,716000
+7937,ConocoPhillips,UK,Renault,US,204610,cheque,717000
+905,Renault,SWI,Valeo,US,244867,transfer,718000
+9018,Activision Blizard,ITA,Activision Blizard,GER,2781536,transfer,719000
+8741,CapGemini,SPA,McKesson,US,7762644,transfer,720000
+8642,Nissan,US,McKesson,SWI,6628526,cheque,721000
+32,Renault,SWI,Tesla,JAP,4178520,transfer,722000
+1838,ConocoPhillips,UK,General Motos,GER,6575511,cheque,723000
+672,Valeo,SWI,General Motos,SP,7467900,cheque,724000
+3849,General Motos,CHI,Activision Blizard,SWI,6365996,card,725000
+7866,Activision Blizard,GER,Tesla,SP,2089718,transfer,726000
+5622,Tesla,UK,CapGemini,SP,9660307,cheque,727000
+464,Exxon Mobil,US,Renault,ITA,3358618,transfer,728000
+6369,Tesla,JAP,ConocoPhillips,SWI,4757723,card,729000
+2132,Valeo,ITA,Activision Blizard,SPA,6610920,card,730000
+6948,Tesla,JAP,General Motos,SPA,3287782,cheque,731000
+5216,Monoprix,ITA,Tesla,SP,7219845,transfer,732000
+4115,Exxon Mobil,GER,Monoprix,GER,859249,transfer,733000
+4104,Monoprix,JAP,Nissan,JAP,1279920,transfer,734000
+4248,ConocoPhillips,SPA,Monoprix,GER,3475981,transfer,735000
+8888,Exxon Mobil,CHI,Carrefour,SPA,6863134,transfer,736000
+4751,Exxon Mobil,SPA,Nissan,SP,2626489,card,737000
+204,Nissan,UK,Valeo,SPA,2095634,card,738000
+5031,Activision Blizard,SWI,Renault,ITA,7665366,cheque,739000
+4664,CapGemini,SWI,Nissan,ITA,9044033,transfer,740000
+9340,Chevron,JAP,Monoprix,US,4744838,transfer,741000
+454,Nissan,UK,Activision Blizard,JAP,2733998,card,742000
+8494,General Motos,SP,McKesson,SP,839198,transfer,743000
+5940,Chevron,CHI,Valeo,FR,5119577,transfer,744000
+2028,CapGemini,JAP,General Motos,CHI,3453164,transfer,745000
+6787,Monoprix,GER,Activision Blizard,US,2811158,transfer,746000
+8676,Renault,GER,Monoprix,JAP,1212482,card,747000
+7493,Tesla,SWI,Valeo,CHI,9017965,transfer,748000
+7156,General Motos,CHI,CapGemini,GER,6687264,card,749000
+4631,Chevron,SP,General Motos,JAP,557873,card,750000
+4549,General Motos,CHI,Carrefour,GER,2826606,card,751000
+4960,Exxon Mobil,JAP,Tesla,US,4394156,card,752000
+3183,McKesson,GER,General Motos,SP,9321010,card,753000
+7937,Chevron,SP,General Motos,CHI,4547914,cheque,754000
+3084,Chevron,JAP,Carrefour,CHI,3155084,cheque,755000
+7184,Monoprix,SP,Carrefour,GER,8305580,cheque,756000
+6392,Monoprix,GER,Nissan,SPA,3151990,transfer,757000
+3892,Tesla,JAP,General Motos,SWI,4209951,transfer,758000
+4955,Valeo,SP,Exxon Mobil,SPA,5808358,card,759000
+5354,Chevron,JAP,Renault,GER,1396768,cheque,760000
+4650,Valeo,SPA,Renault,SWI,5228421,transfer,761000
+795,Tesla,JAP,Nissan,ITA,1072475,cheque,762000
+1763,Activision Blizard,UK,Activision Blizard,SP,6675067,cheque,763000
+6045,Nissan,GER,ConocoPhillips,US,105090,transfer,764000
+9055,Exxon Mobil,SPA,Exxon Mobil,FR,8457093,transfer,765000
+5709,Chevron,ITA,Nissan,CHI,7327586,card,766000
+383,Nissan,GER,Activision Blizard,US,8806791,transfer,767000
+8194,Carrefour,CHI,Monoprix,GER,2301164,card,768000
+3706,ConocoPhillips,UK,Nissan,JAP,1323567,card,769000
+7672,Nissan,JAP,Chevron,CHI,3051382,cheque,770000
+6732,Exxon Mobil,SP,Nissan,FR,8786326,cheque,771000
+5785,Valeo,UK,Carrefour,GER,5309922,transfer,772000
+3675,Renault,SPA,General Motos,SPA,5593433,cheque,773000
+7497,McKesson,GER,McKesson,CHI,753533,transfer,774000
+5848,Tesla,SWI,CapGemini,SWI,9266071,cheque,775000
+1881,Exxon Mobil,UK,Chevron,GER,5322087,card,776000
+7620,Chevron,UK,General Motos,SWI,9947539,card,777000
+6482,Valeo,JAP,General Motos,CHI,7643282,cheque,778000
+9558,Exxon Mobil,SP,General Motos,UK,7059264,card,779000
+230,McKesson,US,Activision Blizard,ITA,903019,transfer,780000
+5403,CapGemini,SP,Renault,GER,7183914,cheque,781000
+2867,General Motos,SWI,Tesla,ITA,1457122,cheque,782000
+1203,Monoprix,JAP,Activision Blizard,FR,7429799,cheque,783000
+3510,Tesla,UK,Nissan,SPA,2227670,cheque,784000
+1669,General Motos,CHI,General Motos,FR,740732,cheque,785000
+7607,Renault,UK,Nissan,SP,1151392,card,786000
+5152,Chevron,SPA,Activision Blizard,JAP,9416850,transfer,787000
+2792,Exxon Mobil,FR,General Motos,SP,7872606,transfer,788000
+7761,CapGemini,JAP,Valeo,JAP,4104892,cheque,789000
+8188,Valeo,ITA,Nissan,ITA,8605110,card,790000
+1032,ConocoPhillips,JAP,Activision Blizard,GER,44777,cheque,791000
+4139,Carrefour,ITA,Monoprix,SP,2699527,transfer,792000
+5148,CapGemini,FR,Valeo,ITA,3556977,transfer,793000
+8261,McKesson,UK,Activision Blizard,SPA,4864856,card,794000
+1198,Exxon Mobil,CHI,Activision Blizard,FR,8187102,transfer,795000
+3693,Renault,SPA,Nissan,GER,3974134,card,796000
+1286,General Motos,GER,Tesla,FR,1484744,card,797000
+7477,ConocoPhillips,CHI,CapGemini,GER,675581,card,798000
+5369,McKesson,SP,Chevron,SPA,9877604,cheque,799000
+5844,Exxon Mobil,JAP,CapGemini,SP,1164813,cheque,800000
+5961,ConocoPhillips,SPA,CapGemini,GER,7866714,transfer,801000
+6092,ConocoPhillips,FR,ConocoPhillips,FR,5513446,cheque,802000
+1058,Monoprix,ITA,Chevron,SP,2110836,card,803000
+3771,ConocoPhillips,ITA,Chevron,SPA,3263966,cheque,804000
+8923,Renault,JAP,Nissan,UK,5383411,card,805000
+98,Activision Blizard,UK,Activision Blizard,CHI,6576052,transfer,806000
+7492,ConocoPhillips,SPA,General Motos,GER,9555186,transfer,807000
+8930,Carrefour,SP,CapGemini,SWI,6118038,cheque,808000
+8801,Tesla,ITA,Valeo,ITA,2916747,transfer,809000
+8712,Carrefour,SP,General Motos,SP,1250924,transfer,810000
+450,Monoprix,US,General Motos,SP,562537,card,811000
+2168,Exxon Mobil,FR,General Motos,SWI,4691764,card,812000
+4601,Chevron,UK,Renault,CHI,6531208,cheque,813000
+5624,CapGemini,GER,General Motos,US,5608400,cheque,814000
+2154,CapGemini,SPA,Nissan,US,8676235,transfer,815000
+7639,ConocoPhillips,FR,Renault,JAP,678728,cheque,816000
+640,CapGemini,SP,Carrefour,UK,2611956,card,817000
+3592,Carrefour,SPA,Exxon Mobil,US,4647803,transfer,818000
+6453,ConocoPhillips,SPA,Nissan,FR,8571166,card,819000
+8900,Chevron,US,Valeo,UK,5029841,card,820000
+6800,ConocoPhillips,GER,ConocoPhillips,SWI,4220852,cheque,821000
+3344,Exxon Mobil,UK,Carrefour,FR,7506437,transfer,822000
+5561,Monoprix,CHI,Chevron,UK,6895356,cheque,823000
+5930,ConocoPhillips,JAP,Monoprix,SPA,5101811,card,824000
+5663,Exxon Mobil,US,General Motos,CHI,4205194,card,825000
+2130,Valeo,SP,Tesla,JAP,1179839,cheque,826000
+7595,Exxon Mobil,CHI,Chevron,SP,679471,transfer,827000
+9194,Renault,JAP,Renault,JAP,9049164,card,828000
+6656,ConocoPhillips,FR,Tesla,SP,9520220,transfer,829000
+3507,Monoprix,CHI,Renault,CHI,5337010,transfer,830000
+298,McKesson,UK,CapGemini,JAP,4199875,cheque,831000
+5762,Nissan,GER,ConocoPhillips,CHI,3546009,transfer,832000
+7344,Renault,SPA,McKesson,CHI,8643293,transfer,833000
+2252,ConocoPhillips,CHI,Activision Blizard,SPA,6951134,cheque,834000
+4634,Activision Blizard,GER,Nissan,CHI,5354991,card,835000
+8471,Carrefour,US,General Motos,SWI,92784,card,836000
+171,McKesson,GER,CapGemini,SPA,9487098,transfer,837000
+1722,Tesla,UK,General Motos,JAP,7965402,transfer,838000
+8617,Chevron,GER,General Motos,SPA,5677561,transfer,839000
+6571,Tesla,ITA,Nissan,SWI,8382131,transfer,840000
+5738,Activision Blizard,US,CapGemini,FR,8037112,transfer,841000
+716,CapGemini,JAP,McKesson,SPA,8713312,cheque,842000
+564,ConocoPhillips,US,Activision Blizard,ITA,4220755,card,843000
+3208,Exxon Mobil,GER,Valeo,SWI,3683966,transfer,844000
+9977,Renault,SWI,Chevron,JAP,2502796,card,845000
+8487,Tesla,SPA,Activision Blizard,SPA,3737468,cheque,846000
+4955,Renault,JAP,Chevron,SP,115347,card,847000
+1037,ConocoPhillips,JAP,Tesla,UK,4485846,card,848000
+6519,Valeo,UK,Monoprix,CHI,1841417,cheque,849000
+8119,Valeo,SP,ConocoPhillips,GER,9696400,card,850000
+7864,Exxon Mobil,FR,McKesson,ITA,9279191,cheque,851000
+3989,General Motos,US,Chevron,JAP,9713328,card,852000
+7934,Nissan,JAP,Carrefour,SPA,8889221,transfer,853000
+1202,General Motos,JAP,McKesson,CHI,874674,transfer,854000
+2248,Carrefour,GER,Renault,ITA,1715645,cheque,855000
+3372,Monoprix,JAP,Valeo,SP,619536,card,856000
+9305,Nissan,CHI,Exxon Mobil,SP,2213488,cheque,857000
+562,Carrefour,US,Exxon Mobil,US,236896,cheque,858000
+5702,CapGemini,CHI,General Motos,CHI,3625662,cheque,859000
+9683,Chevron,JAP,Valeo,JAP,3901468,transfer,860000
+5217,Valeo,UK,ConocoPhillips,SWI,6641162,transfer,861000
+4087,CapGemini,FR,CapGemini,GER,5713300,transfer,862000
+6211,CapGemini,FR,ConocoPhillips,SPA,497296,cheque,863000
+8624,Nissan,FR,Nissan,UK,7451553,cheque,864000
+9781,ConocoPhillips,SPA,Renault,SP,9424555,cheque,865000
+9309,Renault,SP,Activision Blizard,GER,8274366,card,866000
+5484,McKesson,CHI,Exxon Mobil,GER,377921,card,867000
+5272,Carrefour,ITA,Activision Blizard,ITA,4325139,cheque,868000
+2868,Nissan,CHI,Valeo,JAP,9229746,transfer,869000
+8581,Exxon Mobil,SP,CapGemini,SWI,1968102,transfer,870000
+1988,Renault,US,Exxon Mobil,US,6735078,transfer,871000
+9748,McKesson,UK,Valeo,CHI,4035545,cheque,872000
+3670,Monoprix,GER,Nissan,US,8294392,cheque,873000
+5167,Activision Blizard,ITA,Renault,SPA,6096063,card,874000
+7516,Chevron,JAP,Activision Blizard,US,8105361,transfer,875000
+4018,McKesson,JAP,CapGemini,CHI,854202,cheque,876000
+4075,ConocoPhillips,JAP,ConocoPhillips,ITA,5550312,cheque,877000
+127,Renault,SP,CapGemini,JAP,4342070,cheque,878000
+2375,Valeo,CHI,Tesla,JAP,793043,transfer,879000
+5894,Renault,SPA,Monoprix,US,9298709,transfer,880000
+5153,McKesson,CHI,CapGemini,SPA,820772,card,881000
+4217,Exxon Mobil,JAP,Renault,UK,8567276,cheque,882000
+6386,CapGemini,SP,Chevron,FR,6597008,cheque,883000
+4301,Exxon Mobil,UK,Monoprix,ITA,3167219,card,884000
+9854,Chevron,UK,Monoprix,CHI,9289052,card,885000
+5250,CapGemini,UK,CapGemini,ITA,1226448,transfer,886000
+2544,Tesla,SPA,Carrefour,CHI,3540295,transfer,887000
+7262,Chevron,SWI,Tesla,SP,9502462,cheque,888000
+7469,ConocoPhillips,ITA,ConocoPhillips,ITA,1195300,cheque,889000
+2220,Valeo,FR,Valeo,SWI,6171845,card,890000
+6477,ConocoPhillips,SPA,Renault,JAP,8695788,card,891000
+8687,McKesson,CHI,Activision Blizard,JAP,529010,card,892000
+6363,CapGemini,FR,McKesson,SWI,551040,card,893000
+6940,Activision Blizard,ITA,Chevron,SP,2594208,cheque,894000
+2355,Chevron,SP,Chevron,US,4021294,transfer,895000
+9361,Valeo,CHI,Tesla,CHI,8044067,cheque,896000
+3030,McKesson,SWI,Chevron,SP,6996117,cheque,897000
+8947,ConocoPhillips,CHI,Activision Blizard,JAP,7485542,card,898000
+3014,Carrefour,US,Nissan,US,1871140,transfer,899000
+1471,Activision Blizard,US,Activision Blizard,JAP,673786,transfer,900000
+9529,Valeo,SWI,Monoprix,ITA,8450269,card,901000
+6474,Exxon Mobil,CHI,Nissan,JAP,3784130,card,902000
+4906,General Motos,UK,Carrefour,SPA,2395459,card,903000
+2433,Nissan,CHI,McKesson,SPA,1266649,transfer,904000
+7823,Chevron,JAP,CapGemini,SP,1108002,cheque,905000
+2037,Exxon Mobil,US,McKesson,SWI,5863873,card,906000
+1892,Nissan,JAP,ConocoPhillips,FR,2015474,card,907000
+1774,Activision Blizard,GER,Carrefour,SP,7077773,cheque,908000
+5651,Chevron,SPA,McKesson,SWI,2264743,cheque,909000
+2856,Chevron,SPA,Valeo,US,8876443,cheque,910000
+5361,Chevron,JAP,Monoprix,SPA,2631164,transfer,911000
+2836,Monoprix,US,Nissan,FR,9271562,cheque,912000
+2716,General Motos,JAP,CapGemini,SWI,293684,card,913000
+4795,Exxon Mobil,UK,Renault,SWI,3786103,card,914000
+6004,Renault,FR,Nissan,JAP,4379469,card,915000
+8977,Renault,GER,Carrefour,JAP,4633542,card,916000
+5693,Carrefour,FR,Exxon Mobil,SWI,475690,card,917000
+6975,Monoprix,SPA,Exxon Mobil,SP,7956126,cheque,918000
+1459,Tesla,SPA,Nissan,CHI,854574,card,919000
+667,CapGemini,JAP,Activision Blizard,GER,7437194,transfer,920000
+3174,Monoprix,FR,Nissan,ITA,6677914,cheque,921000
+4057,McKesson,CHI,CapGemini,CHI,2871000,card,922000
+5894,Carrefour,FR,Valeo,SPA,2514010,transfer,923000
+8004,McKesson,UK,CapGemini,FR,5058922,card,924000
+6204,Valeo,SWI,Carrefour,CHI,8340632,cheque,925000
+4169,Activision Blizard,GER,General Motos,SWI,3409458,card,926000
+4176,ConocoPhillips,SP,General Motos,CHI,2077316,card,927000
+4151,General Motos,GER,Carrefour,JAP,7079439,card,928000
+7407,Valeo,CHI,Nissan,SWI,5676303,transfer,929000
+7698,Valeo,GER,CapGemini,SPA,473007,transfer,930000
+7372,Monoprix,US,Carrefour,GER,7014045,transfer,931000
+1316,Activision Blizard,SP,Renault,ITA,9462422,cheque,932000
+2499,Renault,SPA,Renault,US,1917727,card,933000
+3953,Activision Blizard,GER,Tesla,ITA,1296847,cheque,934000
+3826,ConocoPhillips,ITA,Nissan,SPA,9553204,card,935000
+1000,General Motos,SPA,ConocoPhillips,JAP,9622728,transfer,936000
+7005,McKesson,GER,ConocoPhillips,ITA,4263900,transfer,937000
+3404,Activision Blizard,FR,Valeo,SWI,122246,card,938000
+9908,Valeo,JAP,CapGemini,JAP,590118,cheque,939000
+3826,CapGemini,CHI,Monoprix,SWI,3032279,cheque,940000
+8773,Activision Blizard,ITA,ConocoPhillips,JAP,3350259,card,941000
+9916,Monoprix,UK,Chevron,ITA,6664020,card,942000
+2338,Tesla,UK,Exxon Mobil,SP,1391702,card,943000
+6917,General Motos,GER,CapGemini,JAP,8917985,card,944000
+3889,Activision Blizard,FR,Renault,SPA,1872861,cheque,945000
+6784,Activision Blizard,SP,Carrefour,UK,2449980,cheque,946000
+9533,Renault,SP,Monoprix,SPA,8311242,card,947000
+8016,Chevron,UK,ConocoPhillips,US,8221654,transfer,948000
+5203,Activision Blizard,CHI,Monoprix,CHI,4775222,cheque,949000
+2414,Exxon Mobil,SPA,Chevron,SPA,1600047,cheque,950000
+1492,Valeo,SP,Exxon Mobil,FR,5412842,card,951000
+5407,Tesla,GER,Nissan,JAP,897766,cheque,952000
+5396,ConocoPhillips,SWI,Nissan,FR,2468189,card,953000
+7049,Nissan,FR,Carrefour,ITA,6150108,cheque,954000
+2708,CapGemini,SWI,General Motos,US,2588456,card,955000
+9231,McKesson,JAP,Monoprix,JAP,9297653,card,956000
+7625,Valeo,JAP,McKesson,SPA,5304223,card,957000
+1826,Renault,SP,Activision Blizard,GER,9693412,card,958000
+7939,Chevron,JAP,Activision Blizard,JAP,5382987,cheque,959000
+4975,Tesla,FR,Activision Blizard,JAP,7224660,card,960000
+6684,Renault,SWI,CapGemini,SPA,4022264,transfer,961000
+5002,Exxon Mobil,GER,Nissan,UK,2137199,cheque,962000
+6294,General Motos,US,ConocoPhillips,SP,6577797,transfer,963000
+383,Renault,SWI,Valeo,JAP,3297918,card,964000
+1105,Exxon Mobil,SWI,Exxon Mobil,SWI,5841186,card,965000
+3016,ConocoPhillips,FR,ConocoPhillips,SWI,1761389,transfer,966000
+6121,Valeo,US,McKesson,FR,6190678,cheque,967000
+4365,CapGemini,SWI,Carrefour,CHI,6408395,transfer,968000
+5236,McKesson,CHI,Valeo,JAP,2062393,transfer,969000
+2198,Exxon Mobil,JAP,Exxon Mobil,SPA,1135946,cheque,970000
+4034,Exxon Mobil,SWI,Tesla,ITA,1104297,card,971000
+4699,Activision Blizard,JAP,Activision Blizard,SWI,5224447,cheque,972000
+1114,McKesson,JAP,Chevron,US,122665,cheque,973000
+9492,Valeo,FR,Monoprix,US,9317430,card,974000
+1971,Activision Blizard,CHI,Tesla,FR,6840089,transfer,975000
+834,Renault,SP,General Motos,ITA,7677285,transfer,976000
+8766,McKesson,UK,CapGemini,UK,2649021,transfer,977000
+5741,Valeo,ITA,Valeo,JAP,7341203,transfer,978000
+2433,General Motos,CHI,Exxon Mobil,UK,601493,transfer,979000
+3810,CapGemini,SPA,Valeo,SP,2300842,cheque,980000
+4599,ConocoPhillips,UK,Carrefour,ITA,9780984,cheque,981000
+4262,ConocoPhillips,FR,McKesson,SWI,4009130,transfer,982000
+2633,Carrefour,JAP,Monoprix,JAP,9227520,cheque,983000
+7253,Tesla,CHI,ConocoPhillips,ITA,601913,card,984000
+6539,Nissan,GER,Exxon Mobil,SWI,5184461,cheque,985000
+80,Activision Blizard,US,General Motos,ITA,5375237,cheque,986000
+245,McKesson,ITA,Exxon Mobil,SPA,3101948,card,987000
+8021,Carrefour,SP,Nissan,SPA,351810,card,988000
+5121,ConocoPhillips,JAP,Nissan,US,2214316,card,989000
+1664,Nissan,UK,Chevron,CHI,8906802,card,990000
+8161,Chevron,CHI,Renault,CHI,7434217,transfer,991000
+7716,General Motos,SPA,Chevron,SPA,7717386,transfer,992000
+71,Renault,GER,Monoprix,SP,2564175,transfer,993000
+1132,Chevron,UK,ConocoPhillips,SP,3325600,card,994000
+8574,ConocoPhillips,SP,Chevron,ITA,8056946,cheque,995000
+9897,Valeo,ITA,Activision Blizard,SP,9692794,cheque,996000
+5099,Exxon Mobil,FR,Valeo,FR,6164449,cheque,997000
+742,Valeo,SWI,CapGemini,SP,1312836,cheque,998000
+8169,Chevron,FR,Valeo,SWI,8073240,card,999000
